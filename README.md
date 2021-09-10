@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development and fishing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... wherever I can help
-- 📫 How to reach me - Twitter: @kasilakeconsult
+- 📫 How to reach me - Twitter: @sid_klc
 
 The code posted here is free to be used by anyone. Neither I nor Kasi Lake Consulting LLC guarantee the code is suitable for any purpose.
 
